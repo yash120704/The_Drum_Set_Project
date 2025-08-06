@@ -16,7 +16,9 @@ This is a fun and interactive Drum Kit application built using **HTML**, **CSS**
 ## 🛠️ Tech Stack
 
 - HTML5
+  
 - CSS3
+  
 - Vanilla JavaScript
 
 ---
@@ -24,14 +26,22 @@ This is a fun and interactive Drum Kit application built using **HTML**, **CSS**
 ## 🔧 How to Run Locally
 
 1. Clone the repository:
+   
    ```bash
+   
    git clone https://github.com/your-username/drum-kit.git
+   
 2. Open the project folder:
+   
 bash
+
 cd drum-kit
+
 Open index.html in your browser.
 
 Or use Live Server in VS Code for best results.
+
+---
 
 🧱 Project Structure
 
@@ -45,20 +55,36 @@ Or use Live Server in VS Code for best results.
 ├── /images/          # Folder containing button background images
 │   └── tommy_1.png, snaremy.png, etc.
 
+---
+
 🎨 Screenshots
 
 <img width="1918" height="977" alt="image" src="https://github.com/user-attachments/assets/64ef3905-e995-4cfa-9eda-0195302407a9" />
 
+---
+
 📌 Keyboard Controls
+
 Key	Sound
+
 w	Drum 1
+
 a	Drum 2
+
 s	Drum 3
+
 d	Drum 4
+
 j	Snare
+
 k	Kick
+
 l	Crash
 
+---
+
 ❤️ Made By
+
 Yash Kashyap
+
 Made with love and rhythm 🎶
