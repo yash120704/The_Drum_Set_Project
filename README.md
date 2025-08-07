@@ -63,6 +63,12 @@ Or use Live Server in VS Code for best results.
 
 ---
 
+📽️ Live Demo
+
+🔗 https://yash120704.github.io/The_Drum_Set_Project/
+
+---
+
 📌 Keyboard Controls
 
 Key	Sound
